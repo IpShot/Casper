@@ -726,7 +726,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
 @media (max-width: 800px) {
     .post-full-image {
         height: 400px;
-        margin: 0 0 -200px
     }
 }
 
